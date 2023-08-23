@@ -6,7 +6,7 @@ calculates the average height, and displays both the list of heights and the cal
 This program was created as part of a learning exercise to practice Python programming.
 
 
-Usage 💻:
+# Usage 💻:
 
 🐍 Run the program.
 
@@ -15,6 +15,6 @@ Usage 💻:
 📊 The program will calculate the average height and display both the list of heights and the calculated average.
 
 
-Acknowledgments 👍:
+# Acknowledgments 👍:
 
 The program was created as part of a learning exercise.
